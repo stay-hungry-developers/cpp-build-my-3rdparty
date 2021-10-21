@@ -20,3 +20,4 @@ include_directories("./my3rdparty/include/")
 include_directories("./include/")
 add_executable(Hello3rdParty ${THIS_APP})
 target_link_libraries(Hello3rdParty libMy3rdParty)
+
