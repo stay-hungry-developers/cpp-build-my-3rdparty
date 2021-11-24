@@ -1,5 +1,5 @@
 #include <iostream>
-#include "foo.h"
+#include "foo/foo.h"
 #include "cls.h"
 using namespace std;
 
